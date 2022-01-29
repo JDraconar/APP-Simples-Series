@@ -1,0 +1,15 @@
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\APP Simples Series.exe
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\APP Simples Series.deps.json
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\APP Simples Series.runtimeconfig.json
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\APP Simples Series.dll
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\ref\APP Simples Series.dll
+D:\Programador\Curso Dio\APP Simples Series\bin\Debug\net6.0\APP Simples Series.pdb
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.csproj.AssemblyReference.cache
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.AssemblyInfoInputs.cache
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.AssemblyInfo.cs
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.csproj.CoreCompileInputs.cache
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.dll
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\ref\APP Simples Series.dll
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.pdb
+D:\Programador\Curso Dio\APP Simples Series\obj\Debug\net6.0\APP Simples Series.genruntimeconfig.cache
